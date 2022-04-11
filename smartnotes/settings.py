@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # personal app
     'home',
+    'notes',
 ]
 
 MIDDLEWARE = [
